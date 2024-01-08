@@ -1,16 +1,16 @@
-# weather_app
+# Flutter Weather App
 
-A new Flutter project.
+## How to Run
 
-## Getting Started
+1. Clone this repository.
+2. Open the project in your preferred Flutter IDE.
+3. Run the app on an emulator or physical device.
 
-This project is a starting point for a Flutter application.
+## Demo Video
 
-A few resources to get you started if this is your first Flutter project:
+https://drive.google.com/file/d/1sxx8CmwDuXzFMb4T8LSTeIXSjkKZYQD3/view?usp=sharing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## About
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Flutter app fetches weather data using the OpenWeatherMap API based on user input. It demonstrates the integration of APIs and basic Flutter features.
+
